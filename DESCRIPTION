@@ -1,0 +1,11 @@
+Package: nw
+Type: Package
+Title: Nonparametric regression with Nadaraya-Watson estimator
+Version: 0.01
+Date: 2009-02-12
+Author: Yasuhisa Yoshida
+Maintainer: Yasuhisa Yoshida <syou6162@gmail.com>
+Description: This package enables you to do a regression with Nadaraya-Watson estimator especially in two dimensions.
+License: What license is it under?
+LazyLoad: yes
+Packaged: Fri Feb 13 00:33:06 2009; yasuhisa

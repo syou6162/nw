@@ -1,0 +1,4 @@
+export(nw)
+export(choice.optimal.h)
+
+S3method(plot, nw)
